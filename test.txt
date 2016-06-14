@@ -1,7 +1,4 @@
 test!
 add new branch!
-<<<<<<< HEAD
-try conflits
-=======
 try conflicts
->>>>>>> feature1
+try stash
