@@ -1,3 +1,7 @@
 test!
 add new branch!
-master conflits
+<<<<<<< HEAD
+try conflits
+=======
+try conflicts
+>>>>>>> feature1
